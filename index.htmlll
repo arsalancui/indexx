@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Comsats Library</title>
+</head>
+<body>
+
+    <h1>Welcome to Comsats University Library</h1>
+    <hr>
+
+    <p>The <b>Comsats Library</b> provides a vast collection of <i>academic resources</i>, digital journals, and a quiet environment for <u>research and study</u>.</p>
+
+    <h2>Library Services</h2>
+    <ul>
+        <li>Digital Resource Center</li>
+        <li>Book Lending and Reservations</li>
+        <li>Research Support Services</li>
+    </ul>
+
+    <h2>Available Departments</h2>
+    <ol>
+        <li>Computer Science Section</li>
+        <li>Management Sciences Section</li>
+        <li>Electrical Engineering Section</li>
+    </ol>
+
+    <h2>Library Gallery</h2>
+    <img src="https://ww3.comsats.edu.pk/isb_library/images/library_pic.jpg" alt="Comsats Library Building" width="500">
+    <p><small>Figure 1: Main entrance of the library.</small></p>
+
+    <h2>Campus Life Video</h2>
+    <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+
+</body>
+</html>
